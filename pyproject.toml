@@ -1,0 +1,8 @@
+[RAG-Work]
+name = "Ashwin Mehta"
+version = "0.1.0"
+email = "ashwinmehta1234500@gmail.com"
+description = "A Retrieval-Augmented Generation (RAG) project demonstrating data ingestion, document processing (Text, PDF), and vector storage usingdescription = "A Retrieval-Augmented Generation (RAG) project demonstrating data ingestion, document processing (Text, PDF), and vector storage using
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
